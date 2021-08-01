@@ -1,0 +1,3 @@
+[submodule "cazo.jp/themes/hugo-theme-basic"]
+	path = cazo.jp/themes/hugo-theme-basic
+	url = https://github.com/siegerts/hugo-theme-basic.git
