@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Hugo Theme Basic</title>
+    <link>https://www.example.com/categories/development/</link>
+    <description>Recent content in Development on Hugo Theme Basic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016-19 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;. Made by &lt;a href=&#39;https://twitter.com/siegerts&#39;&gt;@siegerts&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate><atom:link href="https://www.example.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://www.example.com/project/hugo/</link>
+      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
+      
+      <guid>https://www.example.com/project/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
