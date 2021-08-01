@@ -1,83 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://www.example.com/categories/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/categories/development/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/development/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/project/hugo/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/project/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/</loc>
-    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/series/hugo-101/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/series/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/post/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://cazo.jp/en/sitemap.xml</loc>
+    
+      <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://cazo.jp/fr/sitemap.xml</loc>
+    
+      <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

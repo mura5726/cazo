@@ -1,5 +1,6 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+publishDir = "docs"
+baseURL = "https://cazo.jp/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
