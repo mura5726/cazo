@@ -1,8 +1,8 @@
+baseURL = "https://cazo.jp/"
 publishDir = "docs"
-baseURL = "https://www.example.com/"
-title = "Hugo Theme Basic"
+title = "Cazo"
 theme ="hugo-theme-basic"
-languageCode = "en-us"
+languageCode = "ja-ja"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true 
 copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
