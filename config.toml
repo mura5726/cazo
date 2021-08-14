@@ -1,35 +1,35 @@
-title = "Notre-Dame de Paris"
+title = "Cazo"
 publishDir = "docs"
 baseURL = "https://cazo.jp/"
-languageCode = "en-us"
-theme = "ananke"
+languageCode = "ja-JP"
+theme = "cazo"
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "My blog"
+  [languages.ja]
+    title = "Cazo|楮"
     weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
+    contentDir = "content/ja"
+  [languages.en]
+    title = "Cazo|楮"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/en"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  favicon = "/images/favicon.ico"
+  site_logo = "/images/icon.svg"
+  description = "『Cazo』は埋もれていた、生活や社会、カルチャーまでを包括したわたしたち自身の「コンテンツ」についてのメディアです。最古のテクノロジーニュースから、気になる人物評論や小説の最前線など「過去のトレンド」を毎日発信。毎日豊富に随時アップデートしてお届けしています。"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
@@ -42,6 +42,6 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  background_color_class = "bg-near-white"
+  featured_image = "/images/joshua-coleman-fXls-tVemno-unsplash.jpg"
+  recent_posts_number = 4

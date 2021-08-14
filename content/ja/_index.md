@@ -1,6 +1,6 @@
 ---
-title: "Ananke: Un thème pour Hugo"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "Cazo | "
+featured_image: '/images/joshua-coleman-fXls-tVemno-unsplash.jpg'
 description: "Le dernier thème dont vous aurez besoin. Peut-être"
 ---
 Bienvenu sur mon blog!
